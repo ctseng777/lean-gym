@@ -7,7 +7,7 @@
         "terminal.integrated.shell.linux": "/bin/bash"
     },
     "extensions": [
-        "leanprover.lean4"
+        "leanprover.lean"
     ],
     "postCreateCommand": "bash ./scripts/setup.sh",
     "remoteUser": "vscode"
